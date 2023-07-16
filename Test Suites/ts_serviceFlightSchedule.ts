@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ts_serviceFlightSchedule</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>39d58c53-31cd-4d9e-a80d-b690847116ee</testSuiteGuid>
+   <testCaseLink>
+      <guid>03999f81-eb2e-4e38-9d5a-a3020eabbd33</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/test_siacargo/tc_eServiceFlightSchedule</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d6a5f9da-a607-41b5-8520-69ca73853fc1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/df_test_siacargo/df_flightSchedule</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d6a5f9da-a607-41b5-8520-69ca73853fc1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>origin</value>
+         <variableId>3d3fee9c-27cb-482c-af10-da63a73a252d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6a5f9da-a607-41b5-8520-69ca73853fc1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>destination</value>
+         <variableId>98bb4a70-56db-47f4-9843-21eb7b574668</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6a5f9da-a607-41b5-8520-69ca73853fc1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>dept_date</value>
+         <variableId>f7abdb18-c8f6-4657-bcb8-560090f4b706</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6a5f9da-a607-41b5-8520-69ca73853fc1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expect_flight_number</value>
+         <variableId>a6901726-0144-49a7-be9e-61a11f2cb1a1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

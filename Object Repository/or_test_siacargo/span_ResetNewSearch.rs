@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ResetNewSearch</name>
+   <tag></tag>
+   <elementGuidId>2589b579-ad82-40f0-9ff1-5f44adcc8c38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//flight-schedule[@id='scflightschedule']/div/span/div/div/div/div[2]/div[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fsResetSearchButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b6e957d5-9b5a-414d-8c73-2a8705c5fe7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fsResetSearchButton</value>
+      <webElementGuid>ce725a73-75f8-4680-aee3-7e0484e384a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset / New Search</value>
+      <webElementGuid>01873ed7-a6e5-478a-a513-ade8d2efd5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scflightschedule&quot;)/div[@class=&quot;FS-wrapper-container sqpp-master-container&quot;]/span[1]/div[1]/div[@class=&quot;flightSearch large-screen-size&quot;]/div[@class=&quot;flightSearchContainer&quot;]/div[@class=&quot;flightSearchFilterContainer&quot;]/div[@class=&quot;fsSearchActions&quot;]/span[@class=&quot;fsResetSearchButton&quot;]</value>
+      <webElementGuid>cf30032b-c54a-4ad6-9fbf-f268e9b3b59d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//flight-schedule[@id='scflightschedule']/div/span/div/div/div/div[2]/div[2]/span[2]</value>
+      <webElementGuid>3824a4d8-5782-4b86-9a82-a67956daa57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH'])[1]/following::span[1]</value>
+      <webElementGuid>28ae5552-b446-4002-ad95-deaf967d8be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need an overview for a flight or route? Download eTimetable'])[1]/preceding::span[1]</value>
+      <webElementGuid>4dd480a3-21ba-4331-989c-0aba746b2c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OUR PRODUCTS'])[1]/preceding::span[1]</value>
+      <webElementGuid>40defdba-fd39-4ab8-8876-8aec5c7fe10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset / New Search']/parent::*</value>
+      <webElementGuid>a4a42cdf-e0e4-44cf-96c2-3ca7f43bdd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>922ada29-e4c4-4f9e-a06a-3f7e7131cd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reset / New Search' or . = 'Reset / New Search')]</value>
+      <webElementGuid>e11b9842-d7ae-446b-a11e-0349a9d9fd5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
